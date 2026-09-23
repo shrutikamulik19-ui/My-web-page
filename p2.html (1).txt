@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My Name is: Shreya Sanjay Sutar Class: B.Sc. data science </h1>
+<p> GitHub Practicals.</p>
+</body>  
+</html>
